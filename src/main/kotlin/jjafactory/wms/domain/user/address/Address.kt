@@ -12,5 +12,10 @@ class Address(
     val id: Long? = null,
 
     val userId: Long,
+    val alias: String,
+    var isDefault: Boolean,
+
+    var postCode: String,
+    var city: String
 ) {
 }
