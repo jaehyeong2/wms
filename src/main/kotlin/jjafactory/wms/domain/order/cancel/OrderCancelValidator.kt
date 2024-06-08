@@ -1,4 +1,4 @@
-package jjafactory.wms.domain.order
+package jjafactory.wms.domain.order.cancel
 
 import org.springframework.stereotype.Component
 
